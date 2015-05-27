@@ -1,0 +1,14 @@
+C:\Users\fungchu\Documents\換座位小程式\countdown\countdown\obj\Debug\countdown.csprojResolveAssemblyReference.cache
+C:\Users\fungchu\Documents\換座位小程式\countdown\countdown\obj\Debug\countdown.MainForm.resources
+C:\Users\fungchu\Documents\換座位小程式\countdown\countdown\obj\Debug\countdown.csproj.GenerateResource.Cache
+C:\Users\fungchu\Documents\換座位小程式\countdown\countdown\bin\Debug\countdown.exe
+C:\Users\fungchu\Documents\換座位小程式\countdown\countdown\bin\Debug\countdown.pdb
+C:\Users\fungchu\Documents\換座位小程式\countdown\countdown\obj\Debug\countdown.exe
+C:\Users\fungchu\Documents\換座位小程式\countdown\countdown\obj\Debug\countdown.pdb
+C:\Users\fungchu\Documents\換座位小程式\countdown1.02\countdown\bin\Debug\countdown.exe
+C:\Users\fungchu\Documents\換座位小程式\countdown1.02\countdown\bin\Debug\countdown.pdb
+C:\Users\fungchu\Documents\換座位小程式\countdown1.02\countdown\obj\Debug\countdown.csprojResolveAssemblyReference.cache
+C:\Users\fungchu\Documents\換座位小程式\countdown1.02\countdown\obj\Debug\countdown.MainForm.resources
+C:\Users\fungchu\Documents\換座位小程式\countdown1.02\countdown\obj\Debug\countdown.csproj.GenerateResource.Cache
+C:\Users\fungchu\Documents\換座位小程式\countdown1.02\countdown\obj\Debug\countdown.exe
+C:\Users\fungchu\Documents\換座位小程式\countdown1.02\countdown\obj\Debug\countdown.pdb
